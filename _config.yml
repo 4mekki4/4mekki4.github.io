@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "staeiou"
+  username               : &twitter "3ebdola"
 facebook:
   username               : 
   app_id                 :
@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "oban3.jpg"
-  bio              : "Computational ethnographer, ethnographer of computation, and postdoc at the <a style='color: black;' href='http://bids.berkeley.edu'>Berkeley Institute for Data Science</a>"
-  location         : "Berkeley, CA"
+  avatar           : "myphoto.jpg"
+  bio              : "Natural Language Processing and Mutlilinguality AI Researcher"
+  location         : "Ben Guerir, Morocco"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=0hheG2YAAAAJ&hl=en"
   email            :
   uri              : 
   bitbucket        :
@@ -92,13 +92,13 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "staeiou"
+  github           : "4mekki4"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-7215-0532"
+  orcid            : "http://orcid.org/0000-0002-7394-3611"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -109,7 +109,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "staeiou"
+  wikipedia        : 
 
 
 # Reading Files
