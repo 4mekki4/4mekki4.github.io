@@ -1,15 +1,16 @@
 ---
-title: "When the Levee Breaks: Without Bots, What Happens to Wikipedia’s Quality Control Processes?"
+title: "CS-UM6P at SemEval-2021 Task 1: A Deep Learning Model-based Pre-trained Transformer Encoder for Lexical Complexity"
 category: articles
-permalink: /articles/2013-08-03-wikisym-levee-breaks-bots
-excerpt: '<i>Published in Proceedings of WikiSym, 2013</i><br/>This paper examines what happened when one of Wikipedia&apos;s counter-vandalism bots unexpectedly went offline.'
-date: 2013-08-03
-venue: 'Proceedings of WikiSym'
-citation: 'Geiger, R. Stuart and Halfaker, Aaron. (2013). “When the Levee Breaks: Without Bots, What Happens to Wikipedia’s Quality Control Processes?” In Proceedings of the 9th International Symposium on Wikis and Open Collaboration (WikiSym 2013). http://stuartgeiger.com/wikisym13-cluebot.pdf'
+permalink: /articles/2021-08-05-lexical-complexity-prediction-semeval
+excerpt: 'Nabil El Mamoun, Abdelkader El Mahdaouy, Abdellah El Mekki, Kabil Essefar, Ismail Berrada'
+date: 2021-08-05
+venue: 'Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021)'
+citation: '[CS-UM6P at SemEval-2021 Task 1: A Deep Learning Model-based Pre-trained Transformer Encoder for Lexical Complexity](https://aclanthology.org/2021.semeval-1.73) (El Mamoun et al., SemEval 2021)'
 ---
 
 <a href='http://stuartgeiger.com/wikisym13-cluebot.pdf'>Download PDF here</a>
 
-Abstract: In the first half of 2011, ClueBot NG – one of the most prolific counter-vandalism bots in the English-language Wikipedia – went down for four distinct periods, each period of downtime lasting from days to weeks. In this paper, we use these periods of breakdown as naturalistic experiments to study Wikipedia’s heterogeneous quality control network. Our analysis showed that the overall time-to-revert edits was almost doubled when this software agent was down. Yet while a significantly fewer proportion of edits made during the bot’s downtime were reverted, we found that those edits were later eventually reverted. This suggests that other agents in Wikipedia took over this quality control work, but performed it at a far slower rate.
+Abstract: Lexical Complexity Prediction (LCP) involves assigning a difficulty score to a particular word or expression, in a text intended for a target audience. In this paper, we introduce a new deep learning-based system for this challenging task. The proposed system consists of a deep learning model, based on pre-trained transformer encoder, for word and Multi-Word Expression (MWE) complexity prediction. First, on top of the encoder’s contextualized word embedding, our model employs an attention layer on the input context and the complex word or MWE. Then, the attention output is concatenated with the pooled output of the encoder and passed to a regression module. We investigate both single-task and joint training on both Sub-Tasks data using multiple pre-trained transformer-based encoders. The obtained results are very promising and show the effectiveness of fine-tuning pre-trained transformers for LCP task.
 
- Recommended citation: Geiger, R. Stuart and Halfaker, Aaron. (2013). “When the Levee Breaks: Without Bots, What Happens to Wikipedia’s Quality Control Processes?” In Proceedings of the 9th International Symposium on Wikis and Open Collaboration (WikiSym 2013). http://stuartgeiger.com/wikisym13-cluebot.pdf
+
+ Recommended citation: [CS-UM6P at SemEval-2021 Task 1: A Deep Learning Model-based Pre-trained Transformer Encoder for Lexical Complexity](https://aclanthology.org/2021.semeval-1.73) (El Mamoun et al., SemEval 2021)
