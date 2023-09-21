@@ -2,7 +2,7 @@
 title: "Domain Adaptation for Arabic Cross-Domain and Cross-Dialect Sentiment Analysis from Contextualized Word Embedding"
 category: articles
 permalink: /articles/2021-06-06-arabic-sentiment-analysis-adaptation
-excerpt: 'Abdellah El Mekki, Abdelkader El Mahdaouy, Ismail Berrada, Ahmed Khoumsi'
+excerpt: '<b>Abdellah El Mekki</b>, Abdelkader El Mahdaouy, Ismail Berrada, Ahmed Khoumsi'
 date: 2021-06-06
 venue: 'Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies'
 citation: '[Domain Adaptation for Arabic Cross-Domain and Cross-Dialect Sentiment Analysis from Contextualized Word Embedding](https://aclanthology.org/2021.naacl-main.226) (El Mekki et al., NAACL 2021)'

@@ -2,7 +2,7 @@
 title: "UM6P-CS at SemEval-2022 Task 11: Enhancing Multilingual and Code-Mixed Complex Named Entity Recognition via Pseudo Labels using Multilingual Transformer"
 category: articles
 permalink: /articles/2022-07-14-complex-ner-semeval
-excerpt: 'Abdellah El Mekki, Abdelkader El Mahdaouy, Mohammed Akallouch, Ismail Berrada, Ahmed Khoumsi'
+excerpt: '<b>Abdellah El Mekki</b>, Abdelkader El Mahdaouy, Mohammed Akallouch, Ismail Berrada, Ahmed Khoumsi'
 date: 2022-07-14
 venue: 'Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)'
 citation: '[UM6P-CS at SemEval-2022 Task 11: Enhancing Multilingual and Code-Mixed Complex Named Entity Recognition via Pseudo Labels using Multilingual Transformer](https://aclanthology.org/2022.semeval-1.207) (El Mekki et al., SemEval 2022)'

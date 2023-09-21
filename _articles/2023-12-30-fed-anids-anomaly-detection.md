@@ -2,7 +2,7 @@
 title: "Fed-ANIDS: Federated learning for anomaly-based network intrusion detection systems"
 category: articles
 permalink: /articles/2023-12-30-fed-anids-anomaly-detection
-excerpt: 'Meryem Janati Idrissi, Hamza Alami, Abdelkader El Mahdaouy, Abdellah El Mekki, Soufiane Oualil, Zakaria Yartaoui, Ismail Berrada'
+excerpt: 'Meryem Janati Idrissi, Hamza Alami, Abdelkader El Mahdaouy, <b>Abdellah El Mekki</b>, Soufiane Oualil, Zakaria Yartaoui, Ismail Berrada'
 date: 2023-12-30
 venue: 'Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)'
 citation: 'Meryem Janati Idrissi, Hamza Alami, Abdelkader El Mahdaouy, Abdellah El Mekki, Soufiane Oualil, Zakaria Yartaoui, Ismail Berrada, Fed-ANIDS: Federated learning for anomaly-based network intrusion detection systems,

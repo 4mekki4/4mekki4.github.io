@@ -2,7 +2,7 @@
 title: "On the Role of Orthographic Variations in Building Multidialectal Arabic Word Embeddings"
 category: articles
 permalink: /articles/2021-06-08-multidialectal-embedding-alignment
-excerpt: 'Abdellah El Mekki, Abdelkader El Mahdaouy, Ismail Berrada, Ahmed Khoumsi'
+excerpt: '<b>Abdellah El Mekki</b>, Abdelkader El Mahdaouy, Ismail Berrada, Ahmed Khoumsi'
 date: 2021-06-08
 venue: 'Proceedings of the Canadian Conference on Artificial Intelligence'
 citation: 'El Mekki, A., El Mahdaouy, A., Berrada, I., & Khoumsi, A. (2021). On the Role of Orthographic Variations in Building Multidialectal Arabic Word Embeddings. Proceedings of the Canadian Conference on Artificial Intelligence. https://doi.org/10.21428/594757db.5febef29'

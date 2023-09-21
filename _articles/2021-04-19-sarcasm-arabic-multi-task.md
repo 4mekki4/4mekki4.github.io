@@ -2,7 +2,7 @@
 title: "Deep Multi-Task Model for Sarcasm Detection and Sentiment Analysis in Arabic Language"
 category: articles
 permalink: /articles/2021-04-19-sarcasm-arabic-multi-task
-excerpt: 'Abdelkader El Mahdaouy, Abdellah El Mekki, Kabil Essefar, Nabil El Mamoun, Ismail Berrada, Ahmed Khoumsi'
+excerpt: 'Abdelkader El Mahdaouy, <b>Abdellah El Mekki</b>, Kabil Essefar, Nabil El Mamoun, Ismail Berrada, Ahmed Khoumsi'
 date: 2021-04-19
 venue: 'Proceedings of the Sixth Arabic Natural Language Processing Workshop'
 citation: '[Deep Multi-Task Model for Sarcasm Detection and Sentiment Analysis in Arabic Language](https://aclanthology.org/2021.wanlp-1.42) (El Mahdaouy et al., WANLP 2021)'

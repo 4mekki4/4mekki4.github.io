@@ -2,7 +2,7 @@
 title: "BERT-based multi-task model for country and province level MSA and dialectal Arabic identification"
 category: articles
 permalink: /articles/2021-04-12-nadi-bert-multi-task
-excerpt: 'Abdellah El Mekki, Abdelkader El Mahdaouy, Kabil Essefar, Nabil El Mamoun, Ismail Berrada, Ahmed Khoumsi'
+excerpt: '<b>Abdellah El Mekki</b>, Abdelkader El Mahdaouy, Kabil Essefar, Nabil El Mamoun, Ismail Berrada, Ahmed Khoumsi'
 date: 2021-04-12
 venue: 'Proceedings of the Sixth Arabic Natural Language Processing Workshop'
 citation: '[BERT-based Multi-Task Model for Country and Province Level MSA and Dialectal Arabic Identification](https://aclanthology.org/2021.wanlp-1.31) (El Mekki et al., WANLP 2021)'

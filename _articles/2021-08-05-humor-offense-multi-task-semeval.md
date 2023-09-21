@@ -2,7 +2,7 @@
 title: "CS-UM6P at SemEval-2021 Task 7: Deep Multi-Task Learning Model for Detecting and Rating Humor and Offense"
 category: articles
 permalink: /articles/2021-08-05-humor-offense-multi-task-semeval
-excerpt: 'Kabil Essefar, Abdellah El Mekki, Abdelkader El Mahdaouy, Nabil El Mamoun, Ismail Berrada'
+excerpt: 'Kabil Essefar, <b>Abdellah El Mekki</b>, Abdelkader El Mahdaouy, Nabil El Mamoun, Ismail Berrada'
 date: 2021-08-05
 venue: 'Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021)'
 citation: '[CS-UM6P at SemEval-2021 Task 7: Deep Multi-Task Learning Model for Detecting and Rating Humor and Offense](https://aclanthology.org/2021.semeval-1.159) (Essefar et al., SemEval 2021)'

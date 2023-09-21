@@ -2,7 +2,7 @@
 title: "CS-UM6P at SemEval-2022 Task 6: Transformer-based Models for Intended Sarcasm Detection in English and Arabic"
 category: articles
 permalink: /articles/2022-07-14-sarcasm-arabic-semeval
-excerpt: 'Abdelkader El Mahdaouy, Abdellah El Mekki, Kabil Essefar, Abderrahman Skiredj, Ismail Berrada'
+excerpt: 'Abdelkader El Mahdaouy, <b>Abdellah El Mekki</b>, Kabil Essefar, Abderrahman Skiredj, Ismail Berrada'
 date: 2022-07-14
 venue: 'Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)'
 citation: '[[CS-UM6P at SemEval-2022 Task 6: Transformer-based Models for Intended Sarcasm Detection in English and Arabic](https://aclanthology.org/2022.semeval-1.117) (El Mahdaouy et al., SemEval 2022)'

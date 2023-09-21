@@ -2,7 +2,7 @@
 title: "AdaSL: An Unsupervised Domain Adaptation framework for Arabic multi-dialectal Sequence Labeling"
 category: articles
 permalink: /articles/2022-07-1-adasl-sequence-labeling-arabic
-excerpt: 'Abdellah El Mekki, Abdelkader El Mahdaouy, Ismail Berrada, Ahmed Khoumsi'
+excerpt: '<b>Abdellah El Mekki</b>, Abdelkader El Mahdaouy, Ismail Berrada, Ahmed Khoumsi'
 date: 2022-07-1
 venue: 'Information Processing & Management'
 citation: 'Abdellah El Mekki, Abdelkader El Mahdaouy, Ismail Berrada, Ahmed Khoumsi, AdaSL: An Unsupervised Domain Adaptation framework for Arabic multi-dialectal Sequence Labeling, Information Processing & Management, Volume 59, Issue 4, 2022, 102964, ISSN 0306-4573, https://doi.org/10.1016/j.ipm.2022.102964.'

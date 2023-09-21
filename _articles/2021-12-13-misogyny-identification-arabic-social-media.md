@@ -2,7 +2,7 @@
 title: "Deep Multi-Task Models for Misogyny Identification and Categorization on Arabic Social Media"
 category: articles
 permalink: /articles/2021-12-13-misogyny-identification-arabic-social-media
-excerpt: 'Abdellah El Mekki, Abdelkader El Mahdaouy, Mohammed Akallouch, Ismail Berrada, Ahmed Khoumsi'
+excerpt: '<b>Abdellah El Mekki</b>, Abdelkader El Mahdaouy, Mohammed Akallouch, Ismail Berrada, Ahmed Khoumsi'
 date: 2021-12-13
 venue: 'Working Notes of FIRE 2021 - Forum for Information Retrieval Evaluation (FIRE-WN 2021), Gandhinagar, India'
 ---

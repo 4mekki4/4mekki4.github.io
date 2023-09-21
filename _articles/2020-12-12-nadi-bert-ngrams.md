@@ -2,7 +2,7 @@
 title: "Weighted combination of BERT and N-GRAM features for Nuanced Arabic Dialect Identification"
 category: articles
 permalink: /articles/2020-12-12-nadi-bert-ngrams
-excerpt: 'Abdellah El Mekki, Ahmed Alami, Hamza Alami, Ahmed Khoumsi, Ismail Berrada'
+excerpt: '<b>Abdellah El Mekki</b>, Ahmed Alami, Hamza Alami, Ahmed Khoumsi, Ismail Berrada'
 date: 2020-12-12
 venue: 'Proceedings of the Fifth Arabic Natural Language Processing Workshop'
 citation: '[Weighted combination of BERT and N-GRAM features for Nuanced Arabic Dialect Identification](https://aclanthology.org/2020.wanlp-1.27) (El Mekki et al., WANLP 2020)'

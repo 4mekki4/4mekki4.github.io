@@ -2,7 +2,7 @@
 title: "CS-UM6P at SemEval-2021 Task 1: A Deep Learning Model-based Pre-trained Transformer Encoder for Lexical Complexity"
 category: articles
 permalink: /articles/2021-08-05-lexical-complexity-prediction-semeval
-excerpt: 'Nabil El Mamoun, Abdelkader El Mahdaouy, Abdellah El Mekki, Kabil Essefar, Ismail Berrada'
+excerpt: 'Nabil El Mamoun, Abdelkader El Mahdaouy, <b>Abdellah El Mekki</b>, Kabil Essefar, Ismail Berrada'
 date: 2021-08-05
 venue: 'Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021)'
 citation: '[CS-UM6P at SemEval-2021 Task 1: A Deep Learning Model-based Pre-trained Transformer Encoder for Lexical Complexity](https://aclanthology.org/2021.semeval-1.73) (El Mamoun et al., SemEval 2021)'

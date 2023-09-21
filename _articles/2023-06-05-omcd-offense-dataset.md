@@ -2,7 +2,7 @@
 title: "OMCD: Offensive Moroccan Comments Dataset"
 category: articles
 permalink: /articles/2023-06-05-omcd-offense-dataset
-excerpt: 'Kabil Essefar, Hassan Ait Baha, Abdelkader El Mahdaouy, Abdellah El Mekki, Ismail Berrada'
+excerpt: 'Kabil Essefar, Hassan Ait Baha, Abdelkader El Mahdaouy, <b>Abdellah El Mekki</b>, Ismail Berrada'
 date: 2023-06-05
 venue: 'Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)'
 citation: 'Essefar, K., Ait Baha, H., El Mahdaouy, A. et al. OMCD: Offensive Moroccan Comments Dataset. Lang Resources & Evaluation (2023). https://doi.org/10.1007/s10579-023-09663-2'
