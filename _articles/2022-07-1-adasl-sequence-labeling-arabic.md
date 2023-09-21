@@ -1,0 +1,17 @@
+---
+title: "AdaSL: An Unsupervised Domain Adaptation framework for Arabic multi-dialectal Sequence Labeling"
+category: articles
+permalink: /articles/2022-07-1-adasl-sequence-labeling-arabic
+excerpt: 'Abdellah El Mekki, Abdelkader El Mahdaouy, Ismail Berrada, Ahmed Khoumsi'
+date: 2022-07-1
+venue: 'Information Processing & Management'
+citation: 'Abdellah El Mekki, Abdelkader El Mahdaouy, Ismail Berrada, Ahmed Khoumsi, AdaSL: An Unsupervised Domain Adaptation framework for Arabic multi-dialectal Sequence Labeling, Information Processing & Management, Volume 59, Issue 4, 2022, 102964, ISSN 0306-4573, https://doi.org/10.1016/j.ipm.2022.102964.'
+---
+
+<a href='https://www.sciencedirect.com/science/article/pii/S0306457322000814'>Download PDF here</a>
+
+Dialectal Arabic (DA) refers to varieties of everyday spoken languages in the Arab world. These dialects differ according to the country and region of the speaker, and their textual content is constantly growing with the rise of social media networks and web blogs. Although research on Natural Language Processing (NLP) on standard Arabic, namely Modern Standard Arabic (MSA), has witnessed remarkable progress, research efforts on DA are rather limited. This is due to numerous challenges, such as the scarcity of labeled data as well as the nature and structure of DA. While some recent works have reached decent results on several DA sentence classification tasks, other complex tasks, such as sequence labeling, still suffer from weak performances when it comes to DA varieties with either a limited amount of labeled data or unlabeled data only. Besides, it has been shown that zero-shot transfer learning from models trained on MSA does not perform well on DA. In this paper, we introduce AdaSL, a new unsupervised domain adaptation framework for Arabic multi-dialectal sequence labeling, leveraging unlabeled DA data, labeled MSA data, and existing multilingual and Arabic Pre-trained Language Models (PLMs). The proposed framework relies on four key components: (1) domain adaptive fine-tuning of multilingual/MSA language models on unlabeled DA data, (2) sub-word embedding pooling, (3) iterative self-training on unlabeled DA data, and (4) iterative DA and MSA distribution alignment. We evaluate our framework on multi-dialectal Named Entity Recognition (NER) and Part-of-Speech (POS) tagging tasks.
+
+The overall results show that the zero-shot transfer learning, using our proposed framework, boosts the performance of the multilingual PLMs by 40.87% in macro-F1 score for the NER task, while it boosts the accuracy by 6.95% for the POS tagging task. For the Arabic PLMs, our proposed framework increases performance by 16.18% macro-F1 for the NER task and 2.22% accuracy for the POS tagging task, and thus, achieving new state-of-the-art zero-shot transfer learning performance for Arabic multi-dialectal sequence labeling.
+
+ Recommended citation: Abdellah El Mekki, Abdelkader El Mahdaouy, Ismail Berrada, Ahmed Khoumsi, AdaSL: An Unsupervised Domain Adaptation framework for Arabic multi-dialectal Sequence Labeling, Information Processing & Management, Volume 59, Issue 4, 2022, 102964, ISSN 0306-4573, https://doi.org/10.1016/j.ipm.2022.102964.
