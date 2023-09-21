@@ -1,15 +1,15 @@
 ---
-title: "Bot-based collective blocklists in Twitter: the counterpublic moderation of harassment in a networked public space"
+title: "Improving driver identification for the next-generation of in-vehicle software systems"
 category: articles
-permalink: /articles/2016-03-21-blockbots-ics
-excerpt: '<i>Published in Information, Communication, and Society, 2016</i><br/>This article introduces and discusses bot-based collective blocklists (or blockbots) in Twitter, which have been developed by volunteers to combat harassment in the social networking site.'
-date: 2016-03-21
-venue: 'Information, Communication, and Society'
-citation: 'Geiger, R. Stuart. (2016). “Bot-based collective blocklists in Twitter: the counterpublic moderation of harassment in a networked public space.” Information, Communication, and Society 19(6). http://stuartgeiger.com/blockbots-ics.pdf'
+permalink: /articles/2019-06-23-driver-id
+excerpt: 'Abdellah El Mekki, Afaf Bouhoute, Ismail Berrada'
+date: 2019-06-23
+venue: 'IEEE Transactions on Vehicular Technology'
+citation: 'A. E. Mekki, A. Bouhoute and I. Berrada, "Improving Driver Identification for the Next-Generation of In-Vehicle Software Systems," in IEEE Transactions on Vehicular Technology, vol. 68, no. 8, pp. 7406-7415, Aug. 2019, doi: 10.1109/TVT.2019.2924906.'
 ---
 
-<a href='http://stuartgeiger.com/blockbots-ics.pdf'>Download PDF here</a>
+<a href='https://ieeexplore.ieee.org/abstract/document/8746156'>Download PDF here</a>
 
-Abstract: This article introduces and discusses bot-based collective blocklists (or blockbots) in Twitter, which have been developed by volunteers to combat harassment in the social networking site. Blockbots support the curation of a shared blocklist of accounts, where subscribers to a blockbot will not receive any notifications or messages from accounts on the blocklist. Blockbots support counterpublic communities, helping people moderate their own experiences of a site. This article provides an introduction and overview of blockbots and the issues that they raise about networked publics and platform governance, extending an intersecting literature on online harassment, platform governance, and the politics of algorithms.
+Abstract: This paper deals with driver identification and fingerprinting and its application for enhanced driver profiling and car security in connected cars. We introduce a new driver identification model based on collected data from smartphone sensors, and/or the OBD-II protocol, using convolutional neural networks, and recurrent neural networks (long short-term memory) RNN/LSTM. Unlike the existing works, we use a cross-validation technique that provides reproducible results when applied on unseen realistic data. We also studied the robustness of the model to sensor data anomalies. The obtained results show that our model accuracy remains acceptable even when the rate of the anomalies increases substantially. Finally, the proposed model was tested on different datasets and implemented in Automotive Grade Linux Framework, as a real-time anti-theft and the driver profiling system.
 
- Recommended citation: Geiger, R. Stuart. (2016). “Bot-based collective blocklists in Twitter: the counterpublic moderation of harassment in a networked public space.” Information, Communication, and Society 19(6). http://stuartgeiger.com/blockbots-ics.pdf
+ Recommended citation: A. E. Mekki, A. Bouhoute and I. Berrada, "Improving Driver Identification for the Next-Generation of In-Vehicle Software Systems," in IEEE Transactions on Vehicular Technology, vol. 68, no. 8, pp. 7406-7415, Aug. 2019, doi: 10.1109/TVT.2019.2924906.
