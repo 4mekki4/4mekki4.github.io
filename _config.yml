@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abdellah EL MEKKI"
+title                    : "Abdellah EL MEKKI, Ph.D."
 title_separator          : "-"
-name                     : &name "Abdellah EL MEKKI"
-description              : &description "PhD Student, Natural Language Processing"
+name                     : &name "Abdellah EL MEKKI, Ph.D."
+description              : &description "Ph.D., Natural Language Processing"
 url                      : https://elmekki.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "4mekki4/4mekki4.github.io"
