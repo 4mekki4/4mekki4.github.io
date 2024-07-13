@@ -10,7 +10,28 @@ redirect_from:
 
 {% include base_path %}
 
+# About Abdellah EL MEKKI
 
-Hello! 👋 I'm Abdellah EL MEKKI, a Natural Language Processing Researcher 👨‍💻 with a PhD 🎓 from the [Mohammed VI Polytechnic University](https://www.um6p.ma), Morocco 🇲🇦. I mainly focus on Natural Language Processing (NLP) for low-resource languages and multilingual NLP. But what does a machine learning engineer specializing in NLP do? In essence, I'm a computer scientist who uses various methodologies to study, analyze, and model human languages, always striving to meet two main goals: 1) develop accessible AI for all world communities, starting with voice assistants and extending to large models, and 2) build these models with minimal resources, to ensure access even in low-resource environments.
+Hi there! 👋 I'm Abdellah EL MEKKI, a researcher who studies how computers can understand and work with human languages. I have a PhD from Mohammed VI Polytechnic University in Morocco.
 
-I refer to myself as a computational linguist, because I use computational methods in tandem with traditional linguistic techniques in my work. In addition, I explore the interaction between humans and language technology systems, looking into how people build, support, engage with, and relate to these systems. As an NLP professional, my work is characterized by a keen interest in the intersection of machine learning, computational linguistics, and software engineering, with an emphasis on inclusivity and accessibility.
+## Current Work
+
+I'm currently a Postdoctoral Researcher at MBZUAI in the UAE. My main research is on creating and studying large language models that can work with many different languages with a focus on under-represented and morphologically rich languages .
+
+## What I Do
+
+I'm a computer scientist who focuses on:
+
+- Making language technology work for all languages, especially those with fewer resources
+- Creating AI that everyone can use, like voice assistants and large language models
+- Building these tools efficiently, so they can work even where computing power is limited
+
+I call myself a computational linguist because I combine computer methods with traditional language study techniques.
+
+## My Interests
+
+I'm fascinated by:
+
+- How machine learning can help us understand language
+- The way people interact with language technology
+- Making language AI that's inclusive and easy to use
