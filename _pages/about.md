@@ -10,8 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-# About Abdellah EL MEKKI
-
 Hi there! 👋 I'm Abdellah EL MEKKI, a researcher who studies how computers can understand and work with human languages. I have a PhD from Mohammed VI Polytechnic University in Morocco.
 
 ## Current Work
